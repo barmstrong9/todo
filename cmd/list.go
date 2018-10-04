@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/barmstrong9/brandon/gophercises/todo/db"
+	"github.com/barmstrong9/todo/db"
 	"github.com/spf13/cobra"
 )
 
